@@ -1,5 +1,5 @@
 *.h linguist-detectable=false
-*.Flutter linguist-detectable = true
+*.Flutter linguist-detectable=true
 *.cc linguist-detectable=false
 *.cpp linguist-detectable=false
 *.kt linguist-detectable=false
